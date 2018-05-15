@@ -331,7 +331,7 @@ body .nav .nav-menu li a {
 	z-index: 5;
 }
 .slider .bx-wrapper .bx-prev {
-	background:#000 url("img/left-arrow-white.png") no-repeat 8px 13px;
+	background:#000 url("left-arrow-white.png") no-repeat 8px 13px;
 	left: 0px;
 	opacity: 0.3;
 }
@@ -339,7 +339,7 @@ body .nav .nav-menu li a {
 	opacity: 0.6;
 }	
 .slider .bx-wrapper .bx-next {
-	background: #000 url("img/right-arrow-white.png") no-repeat 10px 12px;
+	background: #000 url("right-arrow-white.png") no-repeat 10px 12px;
 	right: 0px;
 	opacity: 0.3;
 }
@@ -438,15 +438,15 @@ body .nav .nav-menu li a {
 /*--- End 2 Column Icon/Welcome Section --*/
 /*--- Start Parallax Style --*/
 .parallax-1 {
-	background: url("img/IMG_2642.jpeg") repeat fixed 100%;
+	background: url("IMG_2642.jpeg") repeat fixed 100%;
 	text-align: center;
 }
 .parallax-2 {
-	background: url("img/IMG_2542.jpeg") repeat fixed 100% 100% rgba(0, 0, 0, 0);
+	background: url("IMG_2542.jpeg") repeat fixed 100% 100% rgba(0, 0, 0, 0);
 	text-align: center;
 }
 .parallax-3 {
-	background: url("img/IMG_2368.jpeg") repeat fixed 100% 100% rgba(0, 0, 0, 0);
+	background: url("IMG_2368.jpeg") repeat fixed 100% 100% rgba(0, 0, 0, 0);
 	text-align: center;
 }
 .parallax-inner {
@@ -657,7 +657,7 @@ footer p {
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: #696969 url(img/cd-top-arrow.svg) no-repeat center 50%;
+  background: #696969 url(cd-top-arrow.svg) no-repeat center 50%;
   visibility: hidden;
   opacity: 0;
   -webkit-transition: opacity .3s 0s, visibility 0s .3s;
